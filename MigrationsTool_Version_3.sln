@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationsTool_Version_3", "MigrationsTool_Version_3\MigrationsTool_Version_3.csproj", "{1FBF490B-5C53-4689-AE96-B6C004BA739B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBF490B-5C53-4689-AE96-B6C004BA739B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBF490B-5C53-4689-AE96-B6C004BA739B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBF490B-5C53-4689-AE96-B6C004BA739B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBF490B-5C53-4689-AE96-B6C004BA739B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
